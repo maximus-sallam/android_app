@@ -62,7 +62,7 @@ class ConverterApp(MDApp):
                             fraction *= 2
                         elif fraction * 2 > 1:
                             floating.append("1")
-                            fraction = fraction*2 - 1
+                            fraction = fraction * 2 - 1
                         elif fraction * 2 == 1.0:
                             floating.append("1")
                             break
