@@ -7,7 +7,7 @@ title = Number Base Converter
 package.name = baseConverter
 
 # (str) Package domain (needed for android/ios packaging)
-package.domain = org.test
+package.domain = com.maximus-sallam
 
 # (str) Source code where the main.py live
 source.dir = .
@@ -46,10 +46,10 @@ requirements = python3,kivy==2.0.0,kivymd==0.104.2,pillow
 #garden_requirements =
 
 # (str) Presplash of the application
-#presplash.filename = %(source.dir)s/data/presplash.png
+presplash.filename = splash.png
 
 # (str) Icon of the application
-#icon.filename = %(source.dir)s/data/icon.png
+icon.filename = icon-256px.png
 
 # (str) Supported orientation (one of landscape, sensorLandscape, portrait or all)
 orientation = portrait
