@@ -1,10 +1,10 @@
 [app]
 
 # (str) Title of your application
-title = My Application
+title = Number Base Converter
 
 # (str) Package name
-package.name = myapp
+package.name = baseConverter
 
 # (str) Package domain (needed for android/ios packaging)
 package.domain = org.test
@@ -36,7 +36,7 @@ version = 0.1
 
 # (list) Application requirements
 # comma separated e.g. requirements = sqlite3,kivy
-requirements = python3,kivy
+requirements = python3,kivy==2.0.0,kivymd==0.104.2,pillow
 
 # (str) Custom source folders for requirements
 # Sets custom source for any requirements with recipes
