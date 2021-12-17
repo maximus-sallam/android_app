@@ -4,18 +4,15 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c355552-bf20-474a-a594-1409d4f48f37" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/baseConverter-0.1-armeabi-v7a-debug.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ezgif.com-gif-maker.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logo_large.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primary-binary.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/privacy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+    <list default="true" id="680637de-407d-4a5c-bed6-73c91c877022" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/android_app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/android_app.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_17_2021_2_03_AM_[Default_Changelist]/baseConverter-0.1-armeabi-v7a-debug.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_17_2021_2_03_AM_[Default_Changelist]/ezgif.com-gif-maker.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_17_2021_2_03_AM_[Default_Changelist]/logo_large.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_17_2021_2_03_AM_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_17_2021_2_03_AM__Default_Changelist_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +25,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="22MUyMQz8pMXdswp1YZIRrlTdh0" />
+  <component name="ProjectId" id="22NfiZU4U8664r8fQmAFFCSjSnL" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -43,11 +40,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9c355552-bf20-474a-a594-1409d4f48f37" name="Default Changelist" comment="" />
-      <created>1639647202486</created>
+      <changelist id="680637de-407d-4a5c-bed6-73c91c877022" name="Default Changelist" comment="" />
+      <created>1639683092453</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1639647202486</updated>
+      <updated>1639683092453</updated>
     </task>
     <servers />
   </component>
